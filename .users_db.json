@@ -1,0 +1,49 @@
+{
+  "usr_test_rater_realhf_ai": {
+    "id": "usr_test_rater_realhf_ai",
+    "email": "test_rater@realhf.ai",
+    "name": "דניאל מאמן",
+    "password": "123",
+    "trainedCount": 1,
+    "createdAt": "2026-10-19T09:46:46.242Z"
+  },
+  "usr_dan_example_com": {
+    "id": "usr_dan_example_com",
+    "email": "dan@example.com",
+    "name": "דן מאמן",
+    "passwordHash": "a1ca213ef853c3cbfbdf81ea70d36e6462fdd9bd54886c93fb7cc5a72ffdb5f049ffb6564dd7be69e02ff0b832823c2a856fa57c0114eaff8ab29c33b1428599",
+    "salt": "a892436c8f473d30509c2982efa54160",
+    "trainedCount": 1,
+    "createdAt": "2026-10-20T20:23:50.013Z",
+    "lastLoginAt": "2026-10-20T20:50:43.090Z"
+  },
+  "usr_nach_vidan_gmail_com": {
+    "id": "usr_nach_vidan_gmail_com",
+    "email": "nach.vidan@gmail.com",
+    "name": "נח וידן",
+    "passwordHash": "ab488171220b9315c2e805d9c27e44533a7d6983d2f094cc80c895c454330710ac035adfe63fc53da27a069e6ef5f99d7a49246982e1c7a4cb234b2cfb9396cd",
+    "salt": "4226f67c72d680f391fa8e5eee105a26",
+    "trainedCount": 58,
+    "createdAt": "2026-10-20T20:24:19.616Z",
+    "lastLoginAt": "2026-10-20T21:10:40.866Z",
+    "trustScore": 100,
+    "isSpam": false
+  },
+  "usr_spammer_bot_com": {
+    "id": "usr_spammer_bot_com",
+    "email": "spammer@bot.com",
+    "name": "בוט ספאם",
+    "passwordHash": "41bd841f3688d08b2b8805729bd66f4432a985301adbfa939d07567441adb4c55f92660efdce367b8cb3075e3a7f6d1f8b117f61e1f185c9f8bc1928f599caed",
+    "salt": "a8facab613adef437d5d792ce4b07233",
+    "trainedCount": 1,
+    "trustScore": 58,
+    "isSpam": true,
+    "goldenTotal": 1,
+    "goldenPassed": 0,
+    "fastClicksCount": 1,
+    "consecutiveSameSideCount": 1,
+    "createdAt": "2026-10-20T20:41:29.358Z",
+    "lastLoginAt": "2026-10-20T20:41:29.358Z",
+    "lastChosenSide": "B"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "REALHF",
+  "description": "פלטפורמה לאימון מודלי בינה מלאכותית על ידי בחירת התשובה הטבעית והמדויקת ביותר.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
